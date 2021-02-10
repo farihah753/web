@@ -1,35 +1,31 @@
 h1 {
-	color: red;
-	text-align: center;
-	 font-family: Copperplate, fantasy;
-	 background-color: purple;
-	 font-size: 30px;
-	 border-style: solid;
-	 border-color: crimson;
-	 
+color: red;
+text-align: center;
+font-family: Copperplate, fantasy;
+background-color: purple;
+font-size: 30px;
+border-style: solid;
+border-color: crimson;
 }
 h2 { 
-    color: red;
-	text-align: center;
+color: red;
+text-align: center;
 }
 h5 { 
-     text-align: center;
-	 background-color: lavender;
-	 border-style: solid;
-	 border-color: mediumorchid;
-	 
+text-align: center;
+background-color: lavender;
+border-style: solid;
+border-color: mediumorchid;
 }
-
 p { 
-     font-size: 20px;
-	 font-family: Georgia, Serif;
+font-size: 20px;
+font-family: Georgia, Serif;
 }
-
 h3 {
-	font-size: 23px;
-	background-color: purple;
-	color: orangered;
-	font-family: Papyrus, fantasy;
+font-size: 23px;
+background-color: purple;
+color: orangered;
+font-family: Papyrus, fantasy;
 }
 
 
