@@ -1,0 +1,68 @@
+.sum, .char {
+	background-color: lavender;
+	padding-left: 30px;
+	border-style: solid;
+	border-color: crimson;
+	color: purple;
+	font-size: 30px;
+	font-style: bold;
+	font-family: Monospace, "Lucida console"; 
+	
+}	
+.char { font-size: 20px;
+        padding-right: 30px;
+	
+}
+.center {
+	display: block;
+       margin-left: auto;
+	   margin-right: auto;
+	   width: 300px;
+	   
+}	   
+.flex-container {
+	display: flex;
+	
+}
+.flex-container > div {
+	margin: 20px; 
+	padding: 30px;
+	font-size: 30px;
+	background-color: lavender;
+	 border-style: solid;
+	 border-color: mediumorchid;
+}
+h1,h2 {
+	color: red;
+	text-align: center;
+	 font-family: Copperplate, fantasy;
+	 background-color: purple;
+	 font-size: 30px;
+	 border-style: solid;
+	 border-color: crimson;
+}
+h3 {
+	font-size: 23px;
+	background-color: lavender;
+	color: purple;
+	font-family: Papyrus, fantasy;
+	padding: 30px;
+	border-style: dotted;
+	font-size: 30px;
+	font-style: bold;
+	
+h5 { 
+    
+	 text-align: center;
+	 background-color: lavender;
+	 border-style: solid;
+	 border-color: mediumorchid;
+}
+.powers {
+	display: flex;
+}
+.powers > div {
+	width: 100px;
+	margin: 10px;
+}
+
